@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Room status colors (friendly: green/red) -->
+    <color name="status_empty_green">#43A047</color>
+    <color name="status_rented_red">#E53935</color>
+</resources>
+

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">miniproject</string>
+    <string name="rooms_title">Danh sách phòng</string>
+    <string name="add_room">Thêm phòng</string>
+    <string name="edit_room">Sửa phòng</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+
+    <string name="label_room_code">Mã phòng</string>
+    <string name="label_room_name">Tên phòng</string>
+    <string name="label_rent_price">Giá thuê</string>
+    <string name="label_tenant_name">Tên người thuê</string>
+    <string name="label_phone">Số điện thoại</string>
+    <string name="label_status">Tình trạng</string>
+
+    <string name="status_empty">Còn trống</string>
+    <string name="status_rented">Đã thuê</string>
+
+    <string name="toast_validation_failed">Vui lòng kiểm tra lại thông tin.</string>
+    <string name="error_invalid_phone">Số điện thoại không hợp lệ (phải có 10 chữ số và bắt đầu bằng số 0).</string>
+    <string name="toast_duplicate_room_id">Mã phòng đã tồn tại. Vui lòng dùng mã khác.</string>
+    <string name="toast_room_not_found">Không tìm thấy phòng để sửa.</string>
+    <string name="confirm_delete_title">Xóa phòng</string>
+    <string name="confirm_delete_message">Bạn có chắc chắn muốn xóa phòng này?</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="status_array">
+        <item>@string/status_empty</item>
+        <item>@string/status_rented</item>
+    </string-array>
+</resources>
+
